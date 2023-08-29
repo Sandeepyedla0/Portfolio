@@ -1,2 +1,7 @@
-# sandeepyedla.github.io
-protfolio
+# Data Enthusiast 
+
+### Education 
+
+### Work Experience 
+
+### projects 
