@@ -34,3 +34,16 @@
 			transform: none;
 			opacity: 1;
 		}
+
+
+	#profile-photo {
+		text-align: center;
+		margin-bottom: 20px;
+		}
+		
+		.round-photo {
+		border-radius: 50%;
+		width: 150px; /* Adjust the size as needed */
+		height: 150px; /* Adjust the size as needed */
+		border: 2px solid #fff; /* Add a white border for better visibility */
+		}
